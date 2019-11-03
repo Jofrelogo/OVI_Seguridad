@@ -172,7 +172,11 @@ aside{
 	height: 550px;
 }
 article {
+	
     background-color: rgb(231, 222, 222);
+}
+p{
+	text-align: justify;
 }
 .pie_pagina{
     background-color: rgb(0, 0, 0);
